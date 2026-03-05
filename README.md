@@ -51,7 +51,7 @@ Permission has been given to use my repository as reference material to anyone i
   >1. Create CSS styling in menu.css or generic styles.css
   >1. Link the stylesheet to menu.html
   >1. Add this code to the server.js file: 
-    ```
-    app.get('/menu', (req, res) => {res.sendFile(path.join(__dirname, 'public/menu.html'))})
-    ```
-  >1. View the site and test functionality
+```
+app.get('/menu', (req, res) => {res.sendFile(path.join(__dirname, 'public/menu.html'))})
+```
+  >6. View the site and test functionality
