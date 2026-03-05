@@ -1,4 +1,4 @@
-# 📋 Recipe Discovery
+# 📋 Daily Grind Server
 
 A basic web server serving homepage and contact page for The Daily Grind coffee shop.
 
